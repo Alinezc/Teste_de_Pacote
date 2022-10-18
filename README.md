@@ -1,10 +1,10 @@
 # Package_name
 
-### **Descrição **
+### Descrição 
 
-Gerar um teste de projeto de distribuição <br>
+Gerar um teste de projeto de distribuição 
 
-O pacote package_name é usado para:   <br>
+O pacote package_name é usado para: 
 
 ​	- Teste
 
