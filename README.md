@@ -1,20 +1,21 @@
 # Package_name
 
-Description. 
-The package package_name is used to:
-	- Teste
+Descrição
+O pacote package_name é usado para:
+
+​	- Teste
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use o gerenciamento de pacote  [pip](https://pip.pypa.io/en/stable/) para instalar package_name
 
 ```bash
 pip install -i https://test.pypi.org/simple/ Alinezc-teste==0.0.1
 ```
 
 ## Author
-Aline
+Aline Zuquer
 
 # Teste_de_criação_Pacote
 
-![image-20221018164926832](C:\Users\Aline\AppData\Roaming\Typora\typora-user-images\image-20221018164926832.png)
+![Captura de tela 2022-10-18 164904](https://user-images.githubusercontent.com/95122776/196534291-9c96bcbb-8fd2-4c41-a6b2-176a2629c4b9.png)
