@@ -1,10 +1,10 @@
 # Package_name
 
-Descrição **<br>**
+**Descrição **<br>
 
 Gerar o projeto de distribuição **<br>**
 
-O pacote package_name é usado para:   **<br>**
+O pacote package_name é usado para:   <br>
 
 ​	- Teste
 
